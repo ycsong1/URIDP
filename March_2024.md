@@ -1,6 +1,6 @@
 Date | Venue | Participants | Agenda
 -----|-------|--------------|--------
-18 March 2024 | URIDP Construction site office | Prof. Youngchae Song</br>Mr. Woochan Kim | Outstanding Issues
+18 March 2024</br>19 March 2024 | URIDP Construction site office</br>Kigali Marriott Hotel | Prof. Youngchae Song</br>Mr. Woochan Kim | Outstanding Issues
 
 ## I. Remaining Tasks
 ### Main Gate:

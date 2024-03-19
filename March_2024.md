@@ -6,7 +6,7 @@ Date | Venue | Participants | Agenda
 ### Main Gate:
 >The location of the main gate, which has been an issue so far, has been determined. However, there are remaining issues regarding the relocation of utilities such as electrical and communication lines, which are supposed to be handled by the Purchaser.
 ### Regional Centers:
->1. The Purchaser must request electricity supply for each Regional ODeL Center from the Energy Utility Corporation Limited (EUCL).
+>1. The Purchaser plans request electricity supply for each Regional ODeL Center from the Energy Utility Corporation Limited (EUCL).
 >2. The contractor plans to install additional fencing inside the electrical room for the protection of high-voltage electrical equipment supplied by EUCL.
 >3. The contractor plans to install fencing around the Nyagatare Regional Center.
 ## II. Additional Request from the Purchaser

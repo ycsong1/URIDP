@@ -14,10 +14,10 @@ Date | Venue | Participants | Agenda
 >4. The contractor plans to construct an ***access road*** to the regional ODeL center in Busogo.
 ## II. Additional Request from the Purchaser
 ### Change in the usage plan for the third-floor of the headquarters building:
->Originally designed as office space for SPIU, with existing SPIU furniture planned to be used. However, as SPIU will not be utilizing this space and existing furniture will not be placed, the Purchaser has requested the addition of new office furniture and the installation of meeting rooms in some available spaces.
+>The space was originally designed as office space for SPIU, with existing SPIU furniture planned to be used. However, since SPIU will not be utilizing this space and the existing furniture will not be installed, the Purchaser has requested the ***addition of new office furniture*** and the ***installation of a meeting room*** on the third floor of the headquarters.
 ### Extension of Landscaping Scope:
->The Purchaser has requested to extend the currently planned landscaping up to the dormitory.
+>The Purchaser has requested to ***extend the currently planned landscaping*** up to the dormitory.
 ### Installation of Window Blinds:
->The Purchaser has requested the additional installation of blinds on all windows of the HQs and M&G buildings.
+>The Purchaser has requested the ***additional installation of blinds on all windows*** of the HQs and M&G buildings.
 ## III. Handover Plan
->We need to discuss the option of conducting inspections solely for the buildings first as a way to expedite the use of the headquarters and M&G buildings as soon as possible.
+>We need to discuss the option of conducting ***inspections solely for the buildings first*** as a way to expedite the use of the ***headquarters*** and ***M&G building*** as soon as possible.

@@ -3,8 +3,10 @@ Date | Venue | Participants | Agenda
 18 March 2024</br>19 March 2024 | URIDP Construction site office</br>Kigali Marriott Hotel | Prof. Youngchae Song</br>Mr. Woochan Kim | Outstanding Issues
 
 ## I. Remaining Tasks
-### Main Gate:
->The location of the main gate, which has been an issue so far, has been determined. However, there are remaining issues regarding the relocation of utilities such as electrical and communication lines, which are supposed to be handled by the Purchaser.
+### Headquarters and Mining & Geology:
+>1. The location of the **main gate**, which has been an issue so far, has been determined. However, there are remaining issues regarding the relocation of utilities such as electrical and communication lines, which are supposed to be handled by the Purchaser.
+>2. Once the issue of relocating utility lines mentioned above is resolved, the contractor plans to conclude the landscaping work.
+>3. The contractor plans to proceed with signage design and production for five buildings as soon as they receive the approval from the Purchaser on the signage concept design they submitted for headquarters.
 ### Regional Centers:
 >1. The Purchaser plans request electricity supply for each Regional ODeL Center from the Energy Utility Corporation Limited (EUCL).
 >2. The contractor plans to install additional fencing inside the electrical room for the protection of high-voltage electrical equipment supplied by EUCL.

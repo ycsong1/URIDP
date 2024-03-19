@@ -15,7 +15,7 @@ Date | Venue | Participants | Agenda
 ## II. Additional Request from the Purchaser
 ### Change in the usage plan for the third-floor of the headquarters building:
 >Originally designed as office space for SPIU, with existing SPIU furniture planned to be used. However, as SPIU will not be utilizing this space and existing furniture will not be placed, the Purchaser has requested the addition of new office furniture and the installation of meeting rooms in some available spaces.
-### Landscaping:
+### Extension of Landscaping Scope:
 >The Purchaser has requested to extend the currently planned landscaping up to the dormitory.
 ### Installation of Window Blinds:
 >The Purchaser has requested the additional installation of blinds on all windows of the HQs and M&G buildings.

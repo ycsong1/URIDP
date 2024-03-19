@@ -13,13 +13,13 @@ Date | Venue | Participants | Agenda
 >3. The contractor plans to install ***fencing around the Nyagatare Regional Center***.
 >4. The contractor plans to construct an ***access road*** to the regional ODeL center in Busogo.
 ### Equipment Provsioning and Related Services
->1. The Contractor is waiting for Purchaser's decision on ***the printers and related consumables***.
+>1. The Contractor is waiting for Purchaser's decision on the ***printers and related consumables***.
 >2. The Contractor is waiting for Purchaser's decision on ***short-term training***.
 >3. The Consultant recommends the Contractor to submit the plan for the ***post-project operational support***.
 ### Project Management
 >1. The Contractor is waiting for Purchaser's approval on the ***revised Country of Origin***.
->2. ***The contract between the Purchaser and the Contractor*** must be revised and extended.
->3. ***The Contract between the Purchaser and the Consultant*** must be extended.
+>2. The ***contract between the Purchaser and the Contractor*** must be revised and extended.
+>3. The ***Contract between the Purchaser and the Consultant*** must be extended.
 ## II. Additional Request from the Purchaser
 The recent additional requests made by the Purchaser, but whose acceptance by the Contractor has not been determined, are as follows. In order for the Contractor to accommodate the Purchaser's additional requests, adjustments to the budget and schedule are necessary
 >1. ***The third-floor of the headquarters building*** was originally designed as office space for SPIU, with existing SPIU furniture planned to be used. However, since SPIU will not be utilizing this space and the existing furniture will not be installed, the Purchaser has requested the ***addition of new office furniture*** and the ***installation of a meeting room*** on the third floor of the headquarters.

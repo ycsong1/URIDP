@@ -32,3 +32,4 @@ The recent additional requests made by the Purchaser, but whose acceptance by th
 ## **IV. Action Points**
 Action Point | Assigned to | Due Date | Status
 -------------|-------------|----------|--------
+Relocation of the utilities at HQs | Purchaser | 30/04/24 | Pending

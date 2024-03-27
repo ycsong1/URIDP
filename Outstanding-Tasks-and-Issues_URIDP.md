@@ -29,3 +29,6 @@ The recent additional requests made by the Purchaser, but whose acceptance by th
 ## **III. Handover Plan**
 >1. We need to discuss the option of conducting ***inspections solely for the buildings first*** as a way to expedite the use of the ***headquarters*** and ***M&G building*** as soon as possible.
 >2. We also need to obtain the ***occupation permit from Kigali City***, which has already been applied for.
+## **IV. Action Points**
+Action Point | Assigned to | Due Date | Status
+-------------|-------------|----------|--------

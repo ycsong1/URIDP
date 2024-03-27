@@ -30,7 +30,13 @@ The recent additional requests made by the Purchaser, but whose acceptance by th
 >1. We need to discuss the option of conducting ***inspections solely for the buildings first*** as a way to expedite the use of the ***headquarters*** and ***M&G building*** as soon as possible.
 >2. We also need to obtain the ***occupation permit from Kigali City***, which has already been applied for.
 ## **IV. Action Points**
+### **Project Management**
 Action Point | Assigned to | Due Date | Status
 -------------|-------------|----------|--------
-Relocation of the utilities (HQ main gate)</br>Approval of signage design</br>Application for power meters</br>Decision on fence (Nyagatare)</br>Decision on flg poles</br>Decision on printers</br>Decision on short-term training</br>Amendment of payment request for training</br>Amendment of payment request for equipment | Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser | 30/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24 | Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending
+Amendment of payment request for training</br>Amendment of payment request for equipment | Purchaser</br>Purchaser | 00/04/24</br>00/04/24 | Pending</br>Pending
+
+### **Building Construction**
+Action Point | Assigned to | Due Date | Status
+-------------|-------------|----------|--------
+Relocation of the utilities (HQ main gate)</br>Approval of signage design</br>Application for power meters</br>Decision on fence (Nyagatare)</br>Decision on flg poles</br>Decision on printers</br>Decision on short-term training</br> | Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser | 30/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24 | Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending
 

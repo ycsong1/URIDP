@@ -18,7 +18,7 @@ Date | Venue | Participants
 >3. The Consultant recommends the the Contractor to submit a ***comprehensive plan for the final equipment inspection***.
 >4. The Consultant recommends the Contractor to submit the plan for the ***post-project operational support***.
 ### **Project Management:**
->1. The ***contract between the Purchaser and the Contractor*** must be revised and extended. The Contractor is waiting for Purchaser's approval on the ***draft contract amendment with the revised Country of Origin***, which was submitted to the Purchaser on 19 Mrach 2024. 
+>1. The ***contract between the Purchaser and the Contractor*** must be revised and extended. The Contractor is waiting for Purchaser's approval on the ***draft contract amendment*** with the revised ***Country of Origin*** and extended ***project period***, which was submitted to the Purchaser on 19 Mrach 2024. 
 >2. The ***contract between the Purchaser and the Consultant*** must be extended.
 ## **II. Additional Request from the Purchaser**
 The recent additional requests made by the Purchaser, but whose acceptance by the Contractor has not been determined, are as follows. In order for the Contractor to accommodate the Purchaser's additional requests, adjustments to the budget and schedule are necessary

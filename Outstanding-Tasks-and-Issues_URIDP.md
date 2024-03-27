@@ -15,7 +15,8 @@ Date | Venue | Participants
 ### **Equipment Provsioning and Related Services:**
 >1. The Contractor is waiting for Purchaser's decision on the ***printers and related consumables***.
 >2. The Contractor is waiting for Purchaser's decision on ***short-term training***.
->3. The Consultant recommends the Contractor to submit the plan for the ***post-project operational support***.
+>3. The Consultant recommends the the Contractor to submit a ***comprehensive plan for the final equipment inspection***.
+>4. The Consultant recommends the Contractor to submit the plan for the ***post-project operational support***.
 ### **Project Management:**
 >1. The ***contract between the Purchaser and the Contractor*** must be revised and extended. The Contractor is waiting for Purchaser's approval on the ***draft contract amendment with the revised Country of Origin***, which was submitted to the Purchaser on 19 Mrach 2024. 
 >2. The ***contract between the Purchaser and the Consultant*** must be extended.

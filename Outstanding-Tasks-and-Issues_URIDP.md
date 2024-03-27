@@ -1,12 +1,13 @@
 Date | Venue | Participants 
 -----|-------|--------------
-18/03/24</br>19/03/24</br>19/03/24</br>20/03/24</br>27/03/24 | URIDP Construction site office</br>Kigali Marriott Hotel</br>Phone Call</br>Phone Call</br>Kigali Marriott Hotel | Prof. Youngchae Song / Mr. Woochan Kim</br>Prof. Youngchae Song / Mr. Woochan Kim</br>Prof. Youngchae Song / Mr. Chiyoung In </br>Prof. Youngchae Song / Mr. Woochan Kim</br>Prof. Youngchae Song / Mr. Woochan Kim / Ms. Soeun Kim 
+18/03/24</br>19/03/24</br>19/03/24</br>20/03/24</br>27/03/24 | URIDP construction site </br>Kigali Marriott Hotel</br>Phone Call</br>Phone Call</br>Kigali Marriott Hotel | Prof. Youngchae Song / Mr. Woochan Kim</br>Prof. Youngchae Song / Mr. Woochan Kim</br>Prof. Youngchae Song / Mr. Chiyoung In </br>Prof. Youngchae Song / Mr. Woochan Kim</br>Prof. Youngchae Song / Mr. Woochan Kim / Ms. Soeun Kim 
 
 ## **I. Remaining Tasks**
 ### **Headquarters and Mining & Geology:**
 >1. The location of the ***main gate***, which has been an issue so far, has been determined. However, there are remaining issues regarding the relocation of utilities such as electrical and communication lines, which are supposed to be handled by the Purchaser.
 >2. Once the issue of relocating utility lines mentioned above is resolved, the contractor plans to ***conclude the remaining landscaping work***.
 >3. As soon as the Contractor receives approval from the Purchaser on the signage concept design they submitted for the headquarters, they will finalize the ***signage design and production*** for five buildings.
+>4. The contractor plans to install ***flag poles***.
 ### **Regional Centers:**
 >1. The Purchaser plans to ***apply for power meters*** for each Regional ODeL Center from the Energy Utility Corporation Limited (EUCL).
 >2. The contractor plans to install ***additional fencing inside the electrical room*** for the protection of high-voltage electrical equipment supplied by EUCL.

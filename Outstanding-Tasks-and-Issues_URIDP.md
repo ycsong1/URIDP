@@ -32,4 +32,5 @@ The recent additional requests made by the Purchaser, but whose acceptance by th
 ## **IV. Action Points**
 Action Point | Assigned to | Due Date | Status
 -------------|-------------|----------|--------
-Relocation of the utilities at HQs | Purchaser | 30/04/24 | Pending
+Relocation of the utilities (HQ main gate)</br>Approval of signage design</br>application for power meters</br>Decision on fence (Nyagatare)</br>Decision on flg poles</br>Decision on printers</br>Decision on short-term training</br> | Purchaser | 30/04/24 | Pending
+

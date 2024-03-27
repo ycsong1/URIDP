@@ -33,10 +33,10 @@ The recent additional requests made by the Purchaser, but whose acceptance by th
 ### **Project Management**
 Action Point | Assigned to | Due Date | Status
 -------------|-------------|----------|--------
-Submission of payment request amendment for training</br>Submission of payment request amendment for equipment</br>Approval of draft contract amendment | Purchaser</br>Purchaser | 00/04/24</br>00/04/24</br>00/03/24</br> | Pending</br>Pending</br>Pending
+Submission of payment request amendment for training</br>Submission of payment request amendment for equipment</br>Approval of draft contract amendment | Purchaser</br>Purchaser</br>Purchaser | 00/04/24</br>00/04/24</br>00/03/24</br> | Pending</br>Pending</br>Pending
 
 ### **Building Construction**
 Action Point | Assigned to | Due Date | Status
 -------------|-------------|----------|--------
-Relocation of the utilities (HQ main gate)</br>Approval of signage design</br>Application for power meters</br>Decision on fence (Nyagatare)</br>Decision on flg poles</br>Decision on printers</br>Decision on short-term training</br> | Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser | 30/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24 | Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending
+Relocation of the utilities (HQ main gate)</br>Approval of signage design</br>Application for power meters</br>Decision on fence (Nyagatare)</br>Decision on flg poles</br>Decision on printers</br>Decision on short-term training</br>Landscaping work</br>Signage production & installation | Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>Contractor</br>Contractor | 30/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/05/24</br>00/04/24 | Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>In Progress
 

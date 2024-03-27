@@ -31,12 +31,11 @@ The recent additional requests made by the Purchaser, but whose acceptance by th
 >2. We also need to obtain the ***occupation permit from Kigali City***, which has already been applied for.
 ## **IV. Action Points**
 ### **Project Management**
-Action Point | Assigned to | Due Date | Status
--------------|-------------|----------|--------
 Submission of payment request amendment for training</br>Submission of payment request amendment for equipment</br>Approval of draft contract amendment | Purchaser</br>Purchaser</br>Purchaser | 00/04/24</br>00/04/24</br>00/03/24</br> | Pending</br>Pending</br>Pending
 
 ### **Building Construction**
-
+Action Point | Assigned to | Due Date | Status
+-------------|-------------|----------|--------
 Relocation of the utilities (HQ main gate)</br>Approval of signage design</br>Application for power meters</br>Decision on fence (Nyagatare)</br>Decision on flg poles</br>Landscaping work</br>Signage production & installation</br>Construction of access road (Busogo)</br>*Installtion of flag poles*</br>*Fencing (Nyagatare)* | Purchaser</br>Purchaser</br>Purchaser</br>Purchaser</br>>Purchaser</br>Contractor</br>Contractor</br>Contractor</br>Contractor</br>Contractor | 00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/05/24</br>00/04/24</br>00/04/24</br>00/04/24</br>00/04/24 | Pending</br>Pending</br>Pending</br>Pending</br>Pending</br>In Progress</br>Not started</br>Not started</br>Not started</br>Not started
 
 ### **Equipment Provioning / Capacity Building / Related Services

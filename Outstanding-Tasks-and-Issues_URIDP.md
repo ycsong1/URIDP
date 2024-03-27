@@ -33,7 +33,7 @@ The recent additional requests made by the Purchaser, but whose acceptance by th
 ### **Project Management**
 Action Point | Assigned to | Due Date | Status
 -------------|-------------|----------|--------
-Amendment of payment request for training</br>Amendment of payment request for equipment | Purchaser</br>Purchaser | 00/04/24</br>00/04/24 | Pending</br>Pending
+Submission of payment request amendment for training</br>Submission of payment request amendment for equipment</br>Approval of draft contract amendment | Purchaser</br>Purchaser | 00/04/24</br>00/04/24</br>00/03/24</br> | Pending</br>Pending</br>Pending
 
 ### **Building Construction**
 Action Point | Assigned to | Due Date | Status
